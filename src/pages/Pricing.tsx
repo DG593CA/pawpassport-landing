@@ -46,7 +46,7 @@ const plans = [
     name: "Annual Renewal",
     price: "69",
     period: "per year",
-    desc: "Keep your existing letter current. Discounted renewal for returning PawPassport clients.",
+    desc: "Keep your existing letter current. Discounted renewal for returning PawsPassport clients.",
     highlight: false,
     features: [
       "Expedited therapist review",

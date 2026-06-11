@@ -16,16 +16,16 @@ const categories = [
       { q: "What is an Emotional Support Animal (ESA) letter?", a: "An ESA letter is a document written and signed by a Licensed Mental Health Professional (LMHP) that confirms you have a mental health condition and that your pet provides therapeutic benefit. It is not a certificate or registration — it is a clinical document." },
       { q: "Is an ESA letter legally recognized?", a: "Yes. ESA letters issued by licensed therapists are legally recognized under the Fair Housing Act (FHA) and HUD guidelines. They entitle you to request reasonable accommodation to live with your pet, even in no-pets housing." },
       { q: "What is the difference between an ESA and a service animal?", a: "Service animals (usually dogs) are trained to perform specific tasks for people with disabilities and have full public access rights. ESAs provide emotional or therapeutic support through companionship and are primarily protected under housing law, not general public access law." },
-      { q: "Do ESA letters expire?", a: "Yes. Most ESA letters are valid for one year from the date of issue. Landlords may request a current letter, so we recommend renewing annually. PawPassport offers a discounted, fast renewal for returning clients." },
+      { q: "Do ESA letters expire?", a: "Yes. Most ESA letters are valid for one year from the date of issue. Landlords may request a current letter, so we recommend renewing annually. PawsPassport offers a discounted, fast renewal for returning clients." },
     ],
   },
   {
     title: "The Process",
     faqs: [
-      { q: "How does the PawPassport process work?", a: "It's three steps: (1) Take our free pre-qualification quiz to see if you may qualify. (2) A licensed therapist in your state reviews your answers and consults with you. (3) If approved, your signed ESA letter is delivered digitally within 24 hours." },
+      { q: "How does the PawsPassport process work?", a: "It's three steps: (1) Take our free pre-qualification quiz to see if you may qualify. (2) A licensed therapist in your state reviews your answers and consults with you. (3) If approved, your signed ESA letter is delivered digitally within 24 hours." },
       { q: "How long does it take to receive my letter?", a: "Most clients receive their letter within 24 hours of their therapist consultation being completed. In many cases it arrives the same day. We prioritize speed without compromising the quality and legal validity of your document." },
       { q: "Do I need to speak with a therapist?", a: "Yes. A genuine ESA letter requires an evaluation by a real, licensed mental health professional. We connect you with an LMHP licensed in your state who will review your quiz responses and conduct a brief consultation." },
-      { q: "Is my personal and health information kept private?", a: "Absolutely. PawPassport and our partner therapists operate in full compliance with HIPAA. Your health information is encrypted and never shared with third parties, including your landlord." },
+      { q: "Is my personal and health information kept private?", a: "Absolutely. PawsPassport and our partner therapists operate in full compliance with HIPAA. Your health information is encrypted and never shared with third parties, including your landlord." },
     ],
   },
   {

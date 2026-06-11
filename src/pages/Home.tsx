@@ -119,7 +119,7 @@ export default function Home() {
         <div className="container mx-auto">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={fadeIn}>
-              <h2 className="text-3xl md:text-5xl font-bold mb-6 text-white">Why trust PawPassport for your letter?</h2>
+              <h2 className="text-3xl md:text-5xl font-bold mb-6 text-white">Why trust PawsPassport for your letter?</h2>
               <p className="text-white/80 text-lg mb-8 leading-relaxed">We don't just generate generic documents. We connect you with real, licensed professionals who understand the vital role pets play in mental health.</p>
               <ul className="space-y-6">
                 {[
@@ -179,9 +179,9 @@ export default function Home() {
           </div>
           <div className="grid md:grid-cols-3 gap-6">
             {[
-              { name: "Sarah Jenkins", pet: "Dog Owner", text: "I was so stressed about moving to a new apartment that didn't allow large dogs. PawPassport was incredibly fast, and the therapist was so understanding. My landlord accepted the letter immediately!" },
+              { name: "Sarah Jenkins", pet: "Dog Owner", text: "I was so stressed about moving to a new apartment that didn't allow large dogs. PawsPassport was incredibly fast, and the therapist was so understanding. My landlord accepted the letter immediately!" },
               { name: "Marcus T.", pet: "Cat Owner", text: "The process is incredibly seamless. Took the quiz on a Tuesday, spoke with a very kind therapist on Wednesday morning, and had my letter by Wednesday afternoon. Saved me hundreds in pet fees." },
-              { name: "Elena R.", pet: "Dog Owner", text: "After a terrible experience with a scam site, I was hesitant. PawPassport is the real deal. Legitimate doctors, professional service, and a beautifully formatted letter that my strict HOA accepted without question." }
+              { name: "Elena R.", pet: "Dog Owner", text: "After a terrible experience with a scam site, I was hesitant. PawsPassport is the real deal. Legitimate doctors, professional service, and a beautifully formatted letter that my strict HOA accepted without question." }
             ].map((review, i) => (
               <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={fadeIn} key={i} className="bg-white p-8 rounded-3xl shadow-sm border border-border">
                 <div className="flex gap-1 text-[#00B67A] mb-4">{[1,2,3,4,5].map(s => <Star key={s} className="w-5 h-5 fill-current" />)}</div>

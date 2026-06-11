@@ -65,7 +65,7 @@ export default function Services() {
             The right letter for your situation
           </motion.h1>
           <motion.p initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }} className="text-lg text-foreground/70">
-            Whether you need housing protection for your ESA or broader access rights for your Psychiatric Service Dog, PawPassport connects you with the right licensed professional.
+            Whether you need housing protection for your ESA or broader access rights for your Psychiatric Service Dog, PawsPassport connects you with the right licensed professional.
           </motion.p>
         </div>
       </section>
@@ -119,7 +119,7 @@ export default function Services() {
         <div className="container mx-auto max-w-3xl">
           <ShieldCheck className="w-10 h-10 text-brand-green mx-auto mb-4" />
           <h2 className="text-2xl md:text-3xl font-bold mb-3">Every letter is verified by esapet.com</h2>
-          <p className="text-white/70 text-lg">Our official partner ESA Pet reviews and authenticates all documents issued through PawPassport, ensuring they meet every legal standard.</p>
+          <p className="text-white/70 text-lg">Our official partner ESA Pet reviews and authenticates all documents issued through PawsPassport, ensuring they meet every legal standard.</p>
         </div>
       </section>
     </Layout>
